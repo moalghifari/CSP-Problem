@@ -1,0 +1,28 @@
+1 Dicky duduk di sebelah mahasiswa yang makan di teras.
+2 Kue merek E disimpan di kotak kue bundar.
+3 Mahasiswa yang duduk di sebelah Rio memakan kue di meja makan.
+4 Mahasiswa yang memakan Kastengel makan di loteng.
+5 Rachel suka kue merek C.
+6 Mahasiswa yang minum yoghurt pisang duduk di tengah dan memiliki kotak kue yang tinggi.
+7 Mahasiswa yang duduk paling kiri menyukai yoghurt jeruk.
+8 Devin adalah mahasiswa yang duduk paling kanan.
+9 Mahasiswa yang makan kue di kamar minum yoghurt blueberry.
+10 Mahasiswa yang memiliki kotak kue tinggi duduk di sebelah mahasiswa yang memiliki kotak kue
+persegi.
+11 Rio minum yoghurt anggur.
+12 Mahasiswa yang menyukai kue merek B duduk di sebelah mahasiswa yang menyukai merek kue A.
+13 Mahasiswa yang menyukai merek kue D duduk di sebelah mahasiswa yang memiliki kotak kue
+bundar.
+14 Mahasiswa yang makan kue Lidah Kucing duduk di sebelah mahasiswa yang memiliki kotak kue
+oval.
+15 Mahasiswa yang duduk ke-2 dari kanan menyukai kue merek D, dan duduk di sebelah mahasiswa
+yang memiliki kotak kue bundar.
+16 Mahasiswa yang duduk paling kiri memakan kue Nastar.
+17 Mahasiswa yang menyukai kue merek B duduk di sebelah kiri mahasiswa yang menyukai merek
+kue C.
+18 Mahasiswa yang duduk ke-2 dari kiri memiliki kotak kue oval.
+19 Rachel adalah mahasiswa yang duduk di sebelah kanan mahasiswa yang minum yoghurt Blueberry.
+20 Mahasiswa yang minum yoghurt plain makan di meja makan.
+21 Merek kue C dimakan di dapur.
+22 Mahasiswa yang makan kue Putri Salju tidak menyimpan kuenya di kotak kue bundar.
+23 Kue Merek A disimpan di kotak kue kecil.
