@@ -1,6 +1,6 @@
 <CSPIF VERSION="0.01">
 <CSP>
-<NAME>Untitled</NAME>
+<NAME>Einstein Puzzle</NAME>
 <DESCRIPTION>
 	<SHORT></SHORT>
 	<DETAILED></DETAILED>
@@ -12,7 +12,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7509.281, 4983.3896)</PROPERTY>
+	<PROPERTY>position = (7513.534, 5132.339)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Mahasiswa_Rio</NAME>
@@ -21,7 +21,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7680.801, 4986.2583)</PROPERTY>
+	<PROPERTY>position = (7374.8613, 5128.534)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Mahasiswa_Rachel</NAME>
@@ -30,7 +30,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7447.426, 5066.2075)</PROPERTY>
+	<PROPERTY>position = (7337.1543, 5215.755)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Mahasiswa_Arno</NAME>
@@ -39,7 +39,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7600.059, 5130.3833)</PROPERTY>
+	<PROPERTY>position = (7454.041, 5264.896)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Mahasiswa_Dicky</NAME>
@@ -48,7 +48,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7739.1274, 5075.491)</PROPERTY>
+	<PROPERTY>position = (7560.532, 5222.866)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>MerkKue_A</NAME>
@@ -57,7 +57,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7268.185, 5618.068)</PROPERTY>
+	<PROPERTY>position = (7199.9023, 5638.346)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>MerkKue_B</NAME>
@@ -66,7 +66,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7421.7046, 5629.936)</PROPERTY>
+	<PROPERTY>position = (7317.464, 5647.432)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>MerkKue_C</NAME>
@@ -75,7 +75,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7206.3306, 5698.887)</PROPERTY>
+	<PROPERTY>position = (7152.54, 5700.2314)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>MerkKue_D</NAME>
@@ -84,7 +84,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7335.1255, 5788.7417)</PROPERTY>
+	<PROPERTY>position = (7251.166, 5769.041)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>MerkKue_E</NAME>
@@ -93,7 +93,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7467.0312, 5706.17)</PROPERTY>
+	<PROPERTY>position = (7352.174, 5705.8096)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Yogurt_Pisang</NAME>
@@ -102,7 +102,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7590.324, 5405.1245)</PROPERTY>
+	<PROPERTY>position = (7446.583, 5475.282)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Yogurt_Jeruk</NAME>
@@ -111,7 +111,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7743.357, 5406.3804)</PROPERTY>
+	<PROPERTY>position = (7563.7695, 5476.2437)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Yogurt_Blueberry</NAME>
@@ -120,7 +120,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7515.2017, 5493.6035)</PROPERTY>
+	<PROPERTY>position = (7389.0586, 5543.0347)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Yogurt_Anggur</NAME>
@@ -129,7 +129,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7651.457, 5567.612)</PROPERTY>
+	<PROPERTY>position = (7493.4014, 5599.706)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Yogurt_Plain</NAME>
@@ -138,7 +138,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7772.4316, 5509.2715)</PROPERTY>
+	<PROPERTY>position = (7586.035, 5555.0317)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Lokasi_Teras</NAME>
@@ -147,7 +147,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (6987.0, 4962.5854)</PROPERTY>
+	<PROPERTY>position = (6984.587, 5136.405)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Lokasi_Meja</NAME>
@@ -156,7 +156,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7129.3887, 4960.6953)</PROPERTY>
+	<PROPERTY>position = (7093.621, 5134.959)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Lokasi_Dapur</NAME>
@@ -165,7 +165,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (6910.698, 5047.2104)</PROPERTY>
+	<PROPERTY>position = (6926.162, 5201.209)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Lokasi_Loteng</NAME>
@@ -174,7 +174,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7047.6343, 5117.237)</PROPERTY>
+	<PROPERTY>position = (7031.0146, 5254.8325)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Lokasi_Kamar</NAME>
@@ -183,7 +183,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7194.57, 5044.6924)</PROPERTY>
+	<PROPERTY>position = (7143.5312, 5199.279)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>TempatKue_Bundar</NAME>
@@ -192,7 +192,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (6958.7583, 5400.4863)</PROPERTY>
+	<PROPERTY>position = (6962.963, 5471.7305)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>TempatKue_Tinggi</NAME>
@@ -201,7 +201,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7105.966, 5407.1753)</PROPERTY>
+	<PROPERTY>position = (7075.6816, 5476.853)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>TempatKue_Oval</NAME>
@@ -210,7 +210,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (6872.5684, 5482.838)</PROPERTY>
+	<PROPERTY>position = (6896.964, 5534.792)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>TempatKue_Persegi</NAME>
@@ -219,7 +219,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7142.945, 5496.754)</PROPERTY>
+	<PROPERTY>position = (7104.003, 5545.4478)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>TempatKue_Kecil</NAME>
@@ -228,7 +228,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7011.443, 5553.2866)</PROPERTY>
+	<PROPERTY>position = (7003.3076, 5588.7407)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Kue_Kastangel</NAME>
@@ -237,7 +237,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7274.8447, 5194.0654)</PROPERTY>
+	<PROPERTY>position = (7205.005, 5313.662)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Kue_LidahKucing</NAME>
@@ -246,7 +246,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7418.0986, 5199.643)</PROPERTY>
+	<PROPERTY>position = (7314.704, 5317.935)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Kue_Nastar</NAME>
@@ -255,7 +255,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7180.749, 5266.8384)</PROPERTY>
+	<PROPERTY>position = (7132.951, 5369.3896)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Kue_PutriSalju</NAME>
@@ -264,7 +264,7 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7332.7573, 5330.0586)</PROPERTY>
+	<PROPERTY>position = (7249.3535, 5417.802)</PROPERTY>
 </VARIABLE>
 <VARIABLE TYPE="Integer">
 	<NAME>Kue_Coklat</NAME>
@@ -273,7 +273,367 @@
 	<VALUE>3</VALUE>
 	<VALUE>4</VALUE>
 	<VALUE>5</VALUE>
-	<PROPERTY>position = (7504.6167, 5280.736)</PROPERTY>
+	<PROPERTY>position = (7380.95, 5380.0312)</PROPERTY>
 </VARIABLE>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Dapur</GIVEN>
+	<GIVEN>Lokasi_Teras</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5168.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Dapur</GIVEN>
+	<GIVEN>Lokasi_Meja</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5168.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Dapur</GIVEN>
+	<GIVEN>Lokasi_Kamar</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5168.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Dapur</GIVEN>
+	<GIVEN>Lokasi_Loteng</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5168.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Teras</GIVEN>
+	<GIVEN>Lokasi_Loteng</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5208.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Teras</GIVEN>
+	<GIVEN>Lokasi_Meja</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5208.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Teras</GIVEN>
+	<GIVEN>Lokasi_Kamar</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5208.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Meja</GIVEN>
+	<GIVEN>Lokasi_Loteng</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5268.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Meja</GIVEN>
+	<GIVEN>Lokasi_Kamar</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5268.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Lokasi_Kamar</GIVEN>
+	<GIVEN>Lokasi_Loteng</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5308.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Bundar</GIVEN>
+	<GIVEN>TempatKue_Tinggi</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5368.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Bundar</GIVEN>
+	<GIVEN>TempatKue_Persegi</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5368.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Bundar</GIVEN>
+	<GIVEN>TempatKue_Kecil</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5368.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Bundar</GIVEN>
+	<GIVEN>TempatKue_Oval</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5368.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Tinggi</GIVEN>
+	<GIVEN>TempatKue_Persegi</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5408.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Tinggi</GIVEN>
+	<GIVEN>TempatKue_Kecil</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5408.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Tinggi</GIVEN>
+	<GIVEN>TempatKue_Oval</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5408.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Persegi</GIVEN>
+	<GIVEN>TempatKue_Kecil</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5468.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Persegi</GIVEN>
+	<GIVEN>TempatKue_Oval</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5468.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>TempatKue_Kecil</GIVEN>
+	<GIVEN>TempatKue_Oval</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5508.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_A</GIVEN>
+	<GIVEN>MerkKue_B</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5568.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_A</GIVEN>
+	<GIVEN>MerkKue_C</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5568.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_A</GIVEN>
+	<GIVEN>MerkKue_D</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5568.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_A</GIVEN>
+	<GIVEN>MerkKue_E</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5568.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_B</GIVEN>
+	<GIVEN>MerkKue_C</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5608.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_B</GIVEN>
+	<GIVEN>MerkKue_D</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5608.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_B</GIVEN>
+	<GIVEN>MerkKue_E</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5608.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_C</GIVEN>
+	<GIVEN>MerkKue_D</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5668.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_C</GIVEN>
+	<GIVEN>MerkKue_E</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5668.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>MerkKue_D</GIVEN>
+	<GIVEN>MerkKue_E</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (6000.376, 5708.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Rio</GIVEN>
+	<GIVEN>Mahasiswa_Devin</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5168.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Rio</GIVEN>
+	<GIVEN>Mahasiswa_Dicky</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5168.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Rio</GIVEN>
+	<GIVEN>Mahasiswa_Arno</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5168.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Rio</GIVEN>
+	<GIVEN>Mahasiswa_Rachel</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5168.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Devin</GIVEN>
+	<GIVEN>Mahasiswa_Dicky</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5208.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Devin</GIVEN>
+	<GIVEN>Mahasiswa_Arno</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5208.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Devin</GIVEN>
+	<GIVEN>Mahasiswa_Rachel</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5208.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Dicky</GIVEN>
+	<GIVEN>Mahasiswa_Arno</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5268.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Dicky</GIVEN>
+	<GIVEN>Mahasiswa_Rachel</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5268.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Mahasiswa_Arno</GIVEN>
+	<GIVEN>Mahasiswa_Rachel</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5308.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_Kastangel</GIVEN>
+	<GIVEN>Kue_LidahKucing</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5368.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_Kastangel</GIVEN>
+	<GIVEN>Kue_Coklat</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5368.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_Kastangel</GIVEN>
+	<GIVEN>Kue_PutriSalju</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5368.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_Kastangel</GIVEN>
+	<GIVEN>Kue_Nastar</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5368.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_LidahKucing</GIVEN>
+	<GIVEN>Kue_Coklat</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5408.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_LidahKucing</GIVEN>
+	<GIVEN>Kue_PutriSalju</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5408.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_LidahKucing</GIVEN>
+	<GIVEN>Kue_Nastar</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5408.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_Coklat</GIVEN>
+	<GIVEN>Kue_PutriSalju</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5468.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_Coklat</GIVEN>
+	<GIVEN>Kue_Nastar</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5468.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Kue_PutriSalju</GIVEN>
+	<GIVEN>Kue_Nastar</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5508.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Pisang</GIVEN>
+	<GIVEN>Yogurt_Jeruk</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5568.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Pisang</GIVEN>
+	<GIVEN>Yogurt_Plain</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5568.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Pisang</GIVEN>
+	<GIVEN>Yogurt_Anggur</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5568.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Pisang</GIVEN>
+	<GIVEN>Yogurt_Blueberry</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5568.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Jeruk</GIVEN>
+	<GIVEN>Yogurt_Plain</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5608.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Jeruk</GIVEN>
+	<GIVEN>Yogurt_Anggur</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5608.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Jeruk</GIVEN>
+	<GIVEN>Yogurt_Blueberry</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5608.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Plain</GIVEN>
+	<GIVEN>Yogurt_Anggur</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5668.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Plain</GIVEN>
+	<GIVEN>Yogurt_Blueberry</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5668.805)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Equals">
+	<GIVEN>Yogurt_Anggur</GIVEN>
+	<GIVEN>Yogurt_Blueberry</GIVEN>
+	<ARGS>complement</ARGS>
+	<PROPERTY>position = (8000.376, 5708.805)</PROPERTY>
+</CONSTRAINT>
 </CSP>
 </CSPIF>
